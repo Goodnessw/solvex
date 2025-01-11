@@ -5,7 +5,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import Dashboard from './pages/Dashboard';
-import Login from './pages/Login';
+import Login from './pages/login';
 import Profile from './pages/profile';
 import Tasks from './pages/Tasks';
 import WalletConnectButton from './components/walletConnectButton';
